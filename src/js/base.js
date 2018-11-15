@@ -7,7 +7,7 @@ define([
     'WinJS/Scheduler',
     'WinJS/Utilities',
     'WinJS/XYFocus',
-    'WinJS/Fragments',
+    //'WinJS/Fragments',
     'WinJS/Application',
     'WinJS/Navigation',
     'WinJS/Animations',
